@@ -7,7 +7,7 @@ To make the catbot you need to buid it first for this phase you will need
 - all wodden bits from the kits
 - the 2 servomotors inside the kit
 
-
+<div class="inst">
 ![img caption](imgs/A01.png)
 ![img caption](imgs/A02.png)
 ![img caption](imgs/A03.png)
@@ -21,6 +21,7 @@ To make the catbot you need to buid it first for this phase you will need
 ![img caption](imgs/A11.png)
 ![img caption](imgs/A12.png)
 ![img caption](imgs/A13.png)
+</div>
 
 ![img caption](imgs/B01.png)
 ![img caption](imgs/B02.png)
@@ -37,7 +38,6 @@ To make the catbot you need to buid it first for this phase you will need
 ![img caption](imgs/C01.png)
 ![img caption](imgs/C02.png)
 ![img caption](imgs/C03.png)
-![img caption](imgs/C04.png)
 
 ![img caption](imgs/D01.png)
 

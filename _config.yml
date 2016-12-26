@@ -64,7 +64,10 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: yld
+# theme: yld
+# theme: phantom
+# theme: freemind.386
+theme: cactus-dark
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
