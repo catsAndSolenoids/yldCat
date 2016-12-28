@@ -2,9 +2,7 @@
 title: Build it
 ---
 
-
-# assemble the frame
-Let's start by building the frame of the catbot, for this phase you will need
+To assemble the frame of the catbot you will need
 
 - all wodden bits from the kit
 - the 2 servomotors
@@ -14,7 +12,7 @@ Let's start by building the frame of the catbot, for this phase you will need
 
 parts for this kits are made to snap and fit together without glue, so you will sometime need to gentely push part together, to do so, apply presure vertically on pre aligned parts. 
 
-# step by step instructions
+## Step by step instructions
 
 Ikea style 
 
