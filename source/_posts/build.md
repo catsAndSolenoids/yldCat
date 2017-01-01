@@ -1,5 +1,6 @@
 ---
-title: Build it
+title: Build
+date: 2016-12-29 01:00:01
 ---
 
 To assemble the frame of the catbot you will need
@@ -14,8 +15,7 @@ parts for this kits are made to snap and fit together without glue, so you will 
 
 ## Step by step instructions
 
-Ikea style 
-
+<div class="instCont">
 <div class="instructions">
 </div>
 <div class="inst">
@@ -85,135 +85,134 @@ Ikea style
 ![img caption](imgs/29.png)
 ![img caption](imgs/30.png)
 ![img caption](imgs/31.png)
-</div>
+</div></div>
 
 <div class="inst-text" style="display:none">
 <ul>
   <li>
     <!-- instruction 1-->
-    take one servo and 
+    We start with the top part, take a servo and the top part align servo gear with the top notch of the wooden bit
   </li>
   <li>
     <!-- instruction 2-->
-    test instruction 2
+    Place this wooden bit on the top of the servo
   </li>
   <li>
     <!-- instruction 3-->
-    test instruction 3
+    same thing with the bottom part (this one have space for passing the wire)
   </li>
   <li>
     <!-- instruction 4-->
-    test instruction 4
   </li>
   <li>
     <!-- instruction 5-->
-    test instruction 5
+    Place the 'E' shaped bit in the top notches
   </li>
   <li>
     <!-- instruction 6-->
-    test instruction 6
+    
   </li>
   <li>
     <!-- instruction 7-->
-    test instruction 7
+    Now place the top part on the circular base
   </li>
   <li>
     <!-- instruction 8-->
-    test instruction 8
+    
   </li>
   <li>
     <!-- instruction 9-->
-    test instruction 9
+    these two bit will hold the turret in place, you may need to force a bit to make these one s fit in.
   </li>
   <li>
     <!-- instruction 10-->
-    test instruction 10
+    
   </li>
   <li>
     <!-- instruction 11-->
-    test instruction 11
+    now we make the laser holder, you should have the wooden bit on the opposite side of the plastic gear
   </li>
   <li>
     <!-- instruction 12-->
-    test instruction 12
+    
   </li>
   <li>
     <!-- instruction 13-->
-    test instruction 13
+    
   </li>
   <li>
     <!-- instruction 14-->
-    test instruction 14
+    insert the laser in the wooden bit
   </li>
   <li>
     <!-- instruction 15-->
-    test instruction 15
+    top part is now complete
   </li>
   <li>
     <!-- instruction 16-->
-    test instruction 16
+    Now we will start the base
   </li>
   <li>
     <!-- instruction 17-->
-    test instruction 17
+    
   </li>
   <li>
     <!-- instruction 18-->
-    test instruction 18
+    
   </li>
   <li>
     <!-- instruction 19-->
-    test instruction 19
+    
   </li>
   <li>
     <!-- instruction 20-->
-    test instruction 20
   </li>
   <li>
     <!-- instruction 21-->
-    test instruction 21
+    use the one with the engraved logos logo side facing outside
   </li>
   <li>
     <!-- instruction 22-->
-    test instruction 22
+    
   </li>
   <li>
     <!-- instruction 23-->
-    test instruction 23
+    take care that the notches from the two part matches sides
   </li>
   <li>
     <!-- instruction 24-->
-    test instruction 24
+    
   </li>
   <li>
     <!-- instruction 25-->
-    test instruction 25
+    now place the servo, servo gear should be centered, if not turn both bar sides
   </li>
   <li>
     <!-- instruction 26-->
-    test instruction 26
+
   </li>
   <li>
     <!-- instruction 27-->
-    test instruction 27
   </li>
   <li>
     <!-- instruction 28-->
-    test instruction 28
   </li>
   <li>
     <!-- instruction 29-->
-    test instruction 29
+    the two bits are here to reinforce structure, so you need to slightly bend the two outer bar inward, and will need more force to set them in postition
   </li>
   <li>
     <!-- instruction 30-->
-    test instruction 30
   </li>
   <li>
     <!-- instruction 31-->
-    test instruction 31
+    now put the top part on the base sevo, gear, and you are done !!! ta da ! now go to the <a href="/connect">connect page</a>
   </li>
 </ul>
 </div>
 
+## Next step
+Wire all the things [here][1]
 
+[1]:/connect
+[2]:/play
