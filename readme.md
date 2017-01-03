@@ -16,5 +16,20 @@ build with [hexo][1] using a modified version of the [cactus dark][2] theme hexo
 - initialise the submodule ```git submodule update --init --recursive```
 - generate the site ```hexo generate```
 
+## text edition
+
+texts are in markdown and in the source folder
+
+index page is in the source/welcome dir
+
+steps are in the source/_post dir
+
+## to do
+
+- finish troubleshooting page
+- program page
+- review texts
+
+
 [1]: [https://hexo.io]
 [2]: [https://github.com/probberechts/cactus-dark]

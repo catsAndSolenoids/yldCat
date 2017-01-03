@@ -1,10 +1,12 @@
 ---
-title: troubleshooting
+title: Troubleshooting
 date: 2016-12-25 00:10:44
 tags:
 ---
 
 here we will talk about the possible problem you may encounter
+
+if you can'f find solution to your issue, fill one [here][3]
 
 ## Firmata
 to install firmata on your  board, you can use [firmata-party][1]
@@ -27,3 +29,4 @@ you can also use the arduino IDE
 
 [1]: https://github.com/noopkat/firmata-party
 [2]: https://www.arduino.cc/en/Main/Software
+[3]: https://github.com/catbotFactory/yldWorkshop/issues

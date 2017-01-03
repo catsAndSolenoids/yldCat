@@ -27,8 +27,9 @@ npm install
 npm run firmTest
 ```
 
-firmTest should say something like ```your board is ready to use !``` and exit if not go [here][4] 
+firmTest should say something like ```your board is ready to use !``` and exit.
 
+If not keep calm and go [here][4] 
 
 [1]:https://github.com/firmata/protocol
 [2]:https://johnny-five.io
