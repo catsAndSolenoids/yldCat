@@ -7,15 +7,16 @@ Lets start making more cats less bored!
 
 You will find here all informations to build and play with your catbot.
 
-## Build it
+## Build
 
-- [build it](/build)
-- [connect it](/connect)
+- [build][1]
+- [connect][2]
 
 
-## Use it
-- by programing it
-- using the catbot app
+## Program
+- [test][3]
+- Program
 
-## Hack it
-- tbd
+[1]:/build
+[2]:/connect
+[3]:/test

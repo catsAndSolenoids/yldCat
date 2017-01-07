@@ -29,7 +29,9 @@ npm run firmTest
 
 firmTest should say something like ```your board is ready to use !``` and exit.
 
-If not keep calm and go [here][4] 
+If not keep calm and go [here][4]
+
+## Calibrate the catbot
 
 [1]:https://github.com/firmata/protocol
 [2]:https://johnny-five.io
