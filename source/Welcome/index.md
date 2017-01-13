@@ -15,8 +15,13 @@ You will find here all informations to build and play with your catbot.
 
 ## Program
 - [test][3]
-- Program
+- [lasercat workshop][4]
+
+## Halp! 
+- [troubleshooting][5]
 
 [1]:/build
 [2]:/connect
 [3]:/test
+[4]:/lasercat
+[5]:/troubleshooting
