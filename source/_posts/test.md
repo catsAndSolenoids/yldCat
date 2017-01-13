@@ -35,16 +35,20 @@ and exit.
 
 If not go [here][4] and come back
 
-## test the catbot, Calibrating and config file creation
+## Test and Calibration
 
 ```
 npm run cat
 ```
 
 Will ask you a few question and help you calibrate your catbot.  
-Once done it will write a ```~/.catbotrc``` file that will be loaded by the catbot lib, allowing you simple override of the default options, if you have an analog joystick you can enable it in this file.
+Once done it will write a ```~/.catbotrc``` file that will be loaded by the catbot lib, allowing you simple override of the default options.  
+if you have an analog joystick you can enable it in this file.
+
+you are now ready to play with your catbot go [here][5] 
 
 [1]:https://github.com/firmata/protocol
 [2]:https://johnny-five.io
 [3]:https://nodejs.org/en/
 [4]:/troubleshooting#Firmata
+[5]:/lasercat
