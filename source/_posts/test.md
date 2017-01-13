@@ -4,7 +4,7 @@ date: 2016-12-27 03:00:01
 tags:
 ---
 
-## before starting
+## Before starting
 
 We will use the [firmata][1] protocol to talk with the microcontroller.
 
@@ -27,11 +27,22 @@ npm install
 npm run firmTest
 ```
 
-firmTest should say something like ```your board is ready to use !``` and exit.
+firmTest should say something like 
+```
+your board is ready to use !
+```
+and exit.
 
-If not keep calm and go [here][4]
+If not go [here][4] and come back
 
-## Calibrate the catbot
+## test the catbot, Calibrating and config file creation
+
+```
+npm run cat
+```
+
+Will ask you a few question and help you calibrate your catbot.  
+Once done it will write a ```~/.catbotrc``` file that will be loaded by the catbot lib, allowing you simple override of the default options, if you have an analog joystick you can enable it in this file.
 
 [1]:https://github.com/firmata/protocol
 [2]:https://johnny-five.io
