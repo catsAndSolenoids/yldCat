@@ -23,7 +23,10 @@ You will find here all informations to build and play with your catbot.
 
 ## Demos !!
 
+LXJS 2014 catbot workshop (shot by Joana Job)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6tOPI7YGPjM" frameborder="0" allowfullscreen></iframe>
+
+early testing by the initial client of the catbot: Guu 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6NYyGC-wZKU" frameborder="0" allowfullscreen></iframe>
 
 ## I want some moar

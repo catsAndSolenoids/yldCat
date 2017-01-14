@@ -6,7 +6,7 @@ date: 2016-12-29 01:00:01
 To assemble the frame of the catbot you will need
 
 - all wodden bits from the kit
-- the 2 servomotors
+- the 2 servomotors (the 2 blue ones)
 - the laser
 
 ## Notes before assembling
@@ -142,7 +142,7 @@ parts for this kits are made to snap and fit together without glue, so you will 
   </li>
   <li>
     <!-- instruction 14-->
-    insert the laser in the wooden bit
+    insert the laser (the dark grey cylinder in the pict in the wooden bit
   </li>
   <li>
     <!-- instruction 15-->

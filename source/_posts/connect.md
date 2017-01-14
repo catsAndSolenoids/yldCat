@@ -39,9 +39,10 @@ Same as Y but on D10 the row befor the Y one
 
 Congratulation, your catbot is close to be complete !
 
+## Joystick
+if you have a joystick in your kit, it comes with a strip of five wires, connect them to the joystick and link the wire with the pins in the Joystic section of the image
+
 ## Next step
 if you want to learn to program your catbot go [here][1]
-if you just want to play with the thing and use OSX, go [here][2]
 
 [1]:/test
-[2]:/play
