@@ -7,11 +7,12 @@ Lets start making more cats less bored!
 
 You will find here all informations to build and play with your catbot.
 
+
+
 ## Build
 
 - [build][1]
 - [connect][2]
-
 
 ## Program
 - [test][3]
@@ -19,6 +20,14 @@ You will find here all informations to build and play with your catbot.
 
 ## Halp! 
 - [troubleshooting][5]
+
+## Demos !!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6tOPI7YGPjM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6NYyGC-wZKU" frameborder="0" allowfullscreen></iframe>
+
+## I want some moar
+catbot are made with love in small series for now, if you want some for you contact us at <gorhgorh@lesnodebots.eu> 
 
 [1]:/build
 [2]:/connect
