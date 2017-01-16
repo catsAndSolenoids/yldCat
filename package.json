@@ -6,7 +6,9 @@
     "version": "3.2.2"
   },
   "scripts": {
-    "gen": "hexo generate"
+    "gen": "hexo generate",
+    "dev": "hexo server",
+    "publish": "rm -rf public && hexo generate"
   },
   "dependencies": {
     "hexo": "^3.2.2",
