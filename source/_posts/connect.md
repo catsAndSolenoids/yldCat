@@ -7,14 +7,16 @@ date: 2016-12-28 02:00:01
 let's have a look at our Funduino and explain terms we will be using later
 
 - 1 : USB connector, where you will plug the usb cable to your computer
-- 2 : Voltage switch, change boards and pin voltage (3V3 or 5V)
+- 2 : Voltage switch, change boards and pin voltage (3V3 or 5V) (put yours to 5V)
 - 3 : Power in, barrel (circular) connector you plug the 9v PSU here
 - 4 : D13 led, onboard led, linked to pin 13
-- 5 : Signal pins row, 14 contollable pin  
+- 5 : Signal pins row, 14 contollable pin
 - 6 : Vout pins row, 14 pin providing 3V3 or 5V depending on board conf  
-- 7 : Ground pins row, 14 grounding pin  
+- 7 : Ground pins row, 14 pin to the gnd
 
+<div class="funPict">
 ![img caption](funduino.png)
+</div>
 
 Start by unpluging the funduino from usb and / or power before connecting anything.
 then check that the voltage switch (2) is set to 5V (servomotors need 5V)
@@ -35,7 +37,7 @@ the servo have a connector at the end of the wire the collored wire are
 place the connector on the D11 col, jumping one col after the laser one.
 
 ## X axis servo
-Same as Y but on D10 the row befor the Y one
+Same as Y but on D10 the row befor the X one
 
 Congratulation, your catbot is close to be complete !
 
