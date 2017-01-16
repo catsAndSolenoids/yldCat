@@ -7,3 +7,4 @@ public/
 .deploy*/
 source/build-it/imgs copy
 *.xcf
+themes/cactus

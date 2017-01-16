@@ -67,7 +67,7 @@ pagination_dir: page
 # theme: yld
 # theme: phantom
 # theme: freemind.386
-theme: cactus-dark
+theme: cactus-mod
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

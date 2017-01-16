@@ -1,0 +1,33 @@
+<section id="about">
+  <% if (config.description) { %>
+    <%- markdown(config.description) %>
+  <% } %>
+
+</section>
+
+<section id="writing">
+  <span class="h1">
+  <!--
+    <a href="<%- url_for("archives") %>"></a>
+  -->
+    Welcome
+  </span>
+    <% site.pages.sort('date', 'asc').limit(1).each(function(post, i){ %>
+      <% console.log(site) %>
+      <%- partial('_partial/post/content', { post: post, index: true, class_name: '' }) %>
+    <% }); %>
+
+</section>
+
+<% if (site.data.projects) { %>
+<section id="projects">
+  <span class="h1"><a href="<%- url_for(theme.projects_url) %>">Projects</a></span>
+  <ul class="project-list">
+    <% for(var obj in site.data.projects){ %>
+      <li class="project-item">
+        <a href="<%= site.data.projects[obj].url %>"><%= site.data.projects[obj].name %></a>: <%= site.data.projects[obj].desc %>
+      </li>
+    <% } %>
+  </ul>
+</section>
+<% } %>
