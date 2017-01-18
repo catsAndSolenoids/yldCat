@@ -16,50 +16,85 @@ parts for this kits are made to snap and fit together without glue, so you will 
 ## Step by step instructions
 
 We start with the top part, take a servo and the top part align servo gear with the top notch of the wooden bit
-![img caption](imgs/01.png)
+### step 1
 Place this wooden bit on the top of the servo
+![img caption](imgs/01.png)
 ![img caption](imgs/02.png)
-    same thing with the bottom part (this one have space for passing the wire)
+### step 2
+Same thing with the bottom part, servo wire facing upward in the little additional "U" shaped hole
 ![img caption](imgs/03.png)
 ![img caption](imgs/04.png)
-    Place the 'E' shaped bit in the top notches
+### step 3
+Place the 'E' shaped bit in the top notches
 ![img caption](imgs/05.png)
 ![img caption](imgs/06.png)
-    Now place the top part on the circular base
+### step 4
+Now place the top part on the circular base
 ![img caption](imgs/07.png)
 ![img caption](imgs/08.png)
-    these two bit will hold the turret in place, you may need to force a bit to make these one s fit in.
+### step 5
+these two bit will hold the turret in place, you may need to force a bit to make these one s fit in.
 ![img caption](imgs/09.png)
 ![img caption](imgs/10.png)
-    now we make the laser holder, you should have the wooden bit on the opposite side of the plastic gear
+### step 6
+now we place the laser holder, you should have the wooden bit on the opposite side of the plastic gear and fit the gear in the horn
 ![img caption](imgs/12.png)
 ![img caption](imgs/13.png)
-    insert the laser (the dark grey cylinder in the pict in the wooden bit
+### step 7
+insert the laser (the dark grey cylinder in the pict) in the wooden bit
 ![img caption](imgs/14.png)
-    top part is now complete
+top part is now complete
 ![img caption](imgs/15.png)
-    Now we will start the base
+### step 8
+Now we will start the base by placing the funduino on it
 ![img caption](imgs/16.png)
 ![img caption](imgs/17.png)
 ![img caption](imgs/18.png)
 ![img caption](imgs/19.png)
 ![img caption](imgs/20.png)
-![img caption](imgs/21.png)
-    use the one with the engraved logos logo side facing outside
+### step 9
+We will now place the 3 bar that will hold the turret and the X axis in place
+there are 3 bars that looks almost the same in the kit
+- one with some engraved logo (A)
+- another one with the same shape but no logo (C)
+- a third one with a space in the middle (B)
+
+use the bar A with the engraved logo side facing outside (notch on your left) in the last row of holes
 ![img caption](imgs/21.png)
 ![img caption](imgs/22.png)
-    take care that the notches from the two part matches sides
+### step 10
+Now place bar B, take care that the notches from the two part matches sides and are on the left
 ![img caption](imgs/23.png)
 ![img caption](imgs/24.png)
-    now place the servo, servo gear should be centered, if not turn both bar sides
+### step 11
+### step 12
+### step 13
+### step 14
+### step 15
+### step 16
+### step 17
+### step 18
+### step 19
+### step 20
+### step 21
+### step 22
+### step 23
+now place the servo, servo gear should be centered, if not turn both bar sides
+### step 24
 ![img caption](imgs/25.png)
+### step 25
 ![img caption](imgs/26.png)
+### step 26
 ![img caption](imgs/27.png)
+### step 27
 ![img caption](imgs/28.png)
-    the two bits are here to reinforce structure, so you need to slightly bend the two outer bar inward, and will need more force to set them in postition
+the two bits are here to reinforce structure, so you need to slightly bend the two outer bar inward, and will need more force to set them in postition
+### step 28
 ![img caption](imgs/29.png)
+### step 29
 ![img caption](imgs/30.png)
-    now put the top part on the base sevo, gear, and you are done !!! ta da !
+now put the top part on the base sevo, gear, and you are done !!! ta da !
+### step 30
 ![img caption](imgs/31.png)
 
 you will have some leftover bit, some plastic horn for the servo motors, and some screws.
