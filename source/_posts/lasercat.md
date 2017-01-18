@@ -6,7 +6,7 @@ tags:
 
 ## lasercatWorkshop
 
-if you are not familiar with the nodebots, you shoud start by doing the [lasercat workshop][1] that we made with [Tableflip][2] for LXJS 2014
+if you are not familiar with nodebots or arduinos, you shoud start by doing the [lasercat workshop][1] that we made with [Tableflip][2] for LXJS 2014
 
 if you cloned the yld-workshop repo, you have the boilerplate code for the lasercat exercise in the exercises folder, fork the repo and start from there.
 

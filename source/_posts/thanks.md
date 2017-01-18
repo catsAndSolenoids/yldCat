@@ -11,9 +11,10 @@ thanks to all that participated in making cat less bored!
 - Cats 
 - [Zhi Zhang][1] helped making the catbot a beautifull thing
 - [Tableflip][2] co created the nodebot workshop for LXJS 2014
-- [Nuno Jobs][3] co writter of the original catbot lib, and beliver of the project
-- the nodebot community, Johnny-five, node serial port, firmata
-- all ppl who helped organising or attended catbot workshops
+- [Nuno Jobs][3] co wrote of the original catbot lib, and helped me publish my fist package
+- Raoul Millais, for beta testing the documentation and highlighting blindspots in it
+- The nodebot community, Johnny-five, node serial port, firmata
+- All ppl who helped organising or attended catbot workshops
 
 [1]: https://twitter.com/zhizh2
 [2]: https://tableflip.io/

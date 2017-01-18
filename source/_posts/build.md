@@ -11,7 +11,7 @@ To assemble the frame of the catbot you will need
 
 ## Notes before assembling
 
-parts for this kits are made to snap and fit together without glue, so you will sometime need to force push part together, to do so, apply presure progessibely vertically on pre aligned parts. 
+parts for this kits are made to snap and fit together without glue, so you will sometime need to force push part together, to do so, apply presure progessively vertically on pre aligned parts. 
 
 ## Step by step instructions
 
@@ -59,7 +59,7 @@ there are 3 bars that looks almost the same in the kit
 - another one with the same shape but no logo (C)
 - a third one with a space in the middle (B)
 
-use the bar A with the engraved logo side facing outside (notch on your left) in the last row of holes
+Place the bar A with the engraved logo side facing outside (notch on your left) in the last row of holes
 ![img caption](imgs/21.png)
 ![img caption](imgs/22.png)
 ### step 10
@@ -67,34 +67,19 @@ Now place bar B, take care that the notches from the two part matches sides and 
 ![img caption](imgs/23.png)
 ![img caption](imgs/24.png)
 ### step 11
-### step 12
-### step 13
-### step 14
-### step 15
-### step 16
-### step 17
-### step 18
-### step 19
-### step 20
-### step 21
-### step 22
-### step 23
-now place the servo, servo gear should be centered, if not turn both bar sides
-### step 24
+then place the servo, servo gear should be centered, if not turn both bar sides
 ![img caption](imgs/25.png)
-### step 25
 ![img caption](imgs/26.png)
-### step 26
+### step 12
+Next is the C bar, with the notches aligned
 ![img caption](imgs/27.png)
-### step 27
 ![img caption](imgs/28.png)
+### step 13
 the two bits are here to reinforce structure, so you need to slightly bend the two outer bar inward, and will need more force to set them in postition
-### step 28
 ![img caption](imgs/29.png)
-### step 29
 ![img caption](imgs/30.png)
+### step 14
 now put the top part on the base sevo, gear, and you are done !!! ta da !
-### step 30
 ![img caption](imgs/31.png)
 
 you will have some leftover bit, some plastic horn for the servo motors, and some screws.
